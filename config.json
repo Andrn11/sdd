@@ -1,0 +1,20 @@
+{
+  "cooldowns": {
+    "cat": 10800,
+    "bonus": 21600,
+    "put": 7200,
+    "magiccoldown": 21600
+  },
+  "prices": {
+    "card": 750,
+    "coffee": 1500,
+    "scratcher": 10000,
+    "companion": 7500,
+    "booster": 10000,
+    "time_watch": 2500,
+    "magic_medallion": 2000,
+    "magic_luck_scroll": 5000,
+    "magic_scroll": 1000
+  },
+  "exchange_rate_update_interval": 60
+}
